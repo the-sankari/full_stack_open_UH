@@ -1,4 +1,4 @@
-```````mermaid
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -36,5 +36,4 @@ sequenceDiagram
     activate spa
     spa-->>browser: Notes rendered on the page
     deactivate spa
-    ``````
-```````
+```
