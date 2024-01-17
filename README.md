@@ -1,1 +1,2 @@
-# full_stack_open_UH
+# full_stack_open
+## University of Helsinki
