@@ -3,7 +3,6 @@ sequenceDiagram
     participant browser
     participant server
 
-
     note over browser: New note submitted
 
     browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
